@@ -137,5 +137,4 @@ app.post('/upload/post', (req, res) => {
 
 // listener
 
-// mongo pass mfbCwqsBt39gh6TZ
 app.listen(PORT, () => console.log(`Server is listening at port ${PORT}`));
