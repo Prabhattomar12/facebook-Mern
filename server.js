@@ -137,4 +137,4 @@ app.post('/upload/post', (req, res) => {
 
 // listener
 
-app.listen(PORT, () => console.log(`Server is listening at port ${PORT}`));
+app.listen(PORT, () => console.log(`Server is running at port ${PORT}`));
